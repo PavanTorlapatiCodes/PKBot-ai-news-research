@@ -1,6 +1,6 @@
 # PKBot – AI-Powered News Research Tool
 
-PkyBot is an AI-powered news research application that allows users to process news article URLs and ask questions about their content. It uses Retrieval-Augmented Generation (RAG) to retrieve relevant article information and generate answers with source references.
+PkBot is an AI-powered news research application that allows users to process news article URLs and ask questions about their content. It uses Retrieval-Augmented Generation (RAG) to retrieve relevant article information and generate answers with source references.
 
 ## Features
 
